@@ -1,0 +1,1108 @@
+[2025-04-03 15:03:15] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:03:20] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:06:07] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:09:33] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:09:35] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:09:46] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:12:48] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:12:48] [[31merror[39m]: [31mnull value in column "title" of relation "applications" violates not-null constraint error: null value in column "title" of relation "applications" violates not-null constraint[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.updateApplication (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Application.js:18:24)[39m
+[31m    at async exports.updateApplication (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\applicationController.js:23:21)[39m
+[2025-04-03 15:14:18] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:16:06] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:16:13] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:22:29] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:22:30] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:22:38] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:23:24] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:23:27] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:23:28] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:24:09] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:24:43] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:24:51] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:24:54] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:26:26] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:26:27] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:26:32] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:26:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:26:37] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:26:40] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:37:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:37:37] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:37:39] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:37:55] [[35mauth[39m]: [35mProfile loaded for user: Ilonczai András (ID: 34)[39m
+[2025-04-03 15:38:11] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:41:18] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:43:44] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:43:45] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:51:46] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:51:54] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:52:04] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:52:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:52:54] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:52:56] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 15:52:56] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 16:02:05] [[35mauth[39m]: [35mProfile loaded for user: Jediand 16 (ID: 43)[39m
+[2025-04-03 16:02:09] [[35mauth[39m]: [35mProfile loaded for user: Jediand 16 (ID: 43)[39m
+[2025-04-03 16:02:20] [[35mauth[39m]: [35mProfile loaded for user: Jediand 16 (ID: 43)[39m
+[2025-04-03 16:02:27] [[35mauth[39m]: [35mProfile loaded for user: Jediand 16 (ID: 43)[39m
+[2025-04-03 16:07:05] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 16:07:14] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 16:19:26] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 16:19:32] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 16:19:33] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 16:19:57] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-03 16:39:33] [[35mauth[39m]: [35mProfile loaded for user: Ilonczai András (ID: 34)[39m
+[2025-04-05 12:02:37] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:14:32] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:14:58] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:15:08] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:15:54] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:16:04] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:16:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:20:15] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:20:19] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:20:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:23:18] [[31merror[39m]: [31mCannot read properties of undefined (reading 'id') TypeError: Cannot read properties of undefined (reading 'id')[39m
+[31m    at exports.getAllApplications (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\applicationController.js:5:66)[39m
+[31m    at Layer.handle [as handle_request] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at Immediate.next [as _onImmediate] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at process.processImmediate (node:internal/timers:491:21)[39m
+[2025-04-05 12:23:19] [[31merror[39m]: [31mCannot read properties of undefined (reading 'id') TypeError: Cannot read properties of undefined (reading 'id')[39m
+[31m    at exports.getAllApplications (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\applicationController.js:5:66)[39m
+[31m    at Layer.handle [as handle_request] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at Immediate.next [as _onImmediate] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at process.processImmediate (node:internal/timers:491:21)[39m
+[2025-04-05 12:23:21] [[31merror[39m]: [31mCannot read properties of undefined (reading 'id') TypeError: Cannot read properties of undefined (reading 'id')[39m
+[31m    at exports.getAllApplications (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\applicationController.js:5:66)[39m
+[31m    at Layer.handle [as handle_request] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at Immediate.next [as _onImmediate] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at process.processImmediate (node:internal/timers:491:21)[39m
+[2025-04-05 12:23:37] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-05 12:27:08] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:08:26] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:08:30] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:10:42] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:16:46] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:18:32] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:18:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:18:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:28:15] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:30:02] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:30:40] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:30:40] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:31:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:31:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:14] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:14] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:33] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:33] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:35] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:32:35] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:37:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:38:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:38:50] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:38:50] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:42:48] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:44:25] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:44:43] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:45:22] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:45:43] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:46:32] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:49:02] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:51:24] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:52:42] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:53:10] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:58:43] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 13:58:43] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 14:02:13] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 14:02:31] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 14:25:00] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 14:25:59] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 14:28:50] [[31merror[39m]: [31minvalid input syntax for type integer: ":id" error: invalid input syntax for type integer: ":id"[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.deleteReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:37:5)[39m
+[31m    at async exports.deleteReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:52:9)[39m
+[2025-04-07 15:04:43] [[31merror[39m]: [31m❌ SMTP kapcsolat sikertelen: colors[Colorizer.allColors[lookup]] is not a function[39m
+[2025-04-07 15:04:58] [[31merror[39m]: [31m❌ SMTP kapcsolat sikertelen: logger.cron is not a function[39m
+[2025-04-07 15:05:03] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:05:05] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:05:06] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:05:09] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:05:11] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:05:28] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:05:29] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:07:00] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 4)[39m
+[2025-04-07 15:08:49] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:08:49] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:09:05] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:09:05] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:09:08] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:09:09] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:09:38] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:09:39] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:17:40] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:17:41] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:17:45] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 15:17:45] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 15:17:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 15:17:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 15:17:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 15:17:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 15:31:39] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:31:39] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 15:52:39] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 15:52:39] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-07 15:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 15:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 15:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 15:55:35] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 15:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 15:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 15:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 15:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:02:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:18:40] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 16:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:24:57] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 16:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:26:06] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 16:26:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 16:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:28:39] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 16:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:29:26] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-07 16:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-07 16:31:09] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-07 16:31:10] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-08 11:45:51] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-08 11:45:52] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-08 11:46:00] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 11:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:51:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:52:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 11:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:01:11] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 12:01:13] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 12:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:07:29] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 12:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:12:41] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 12:12:45] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 12:12:45] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 12:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:16:53] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 12:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:24:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:29:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:37:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:38:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:39:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:40:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:41:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:42:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:43:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:44:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:45:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:51:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:52:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 12:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:20:33] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 13:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:37:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:38:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:39:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:40:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:41:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:42:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:43:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:44:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:45:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:51:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:52:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 13:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:02:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:09:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:13:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:36:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:37:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:38:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:39:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:40:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:41:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:42:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:43:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:44:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:45:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:49:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:51:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:52:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-08 14:53:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 4)[39m
+[2025-04-08 14:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 14:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-08 15:03:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 4)[39m
+[2025-04-08 15:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:12:08] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:12:19] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:12:19] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:17:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:17:50] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-08 15:17:51] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-08 15:18:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:19:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:19:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:19:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:27:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:32:32] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 15:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 15:33:18] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-08 15:33:19] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-08 17:34:39] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-08 17:34:39] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-08 17:34:44] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 17:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-08 17:35:13] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 17:35:16] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 17:35:18] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-08 17:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:18:31] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-12 18:18:31] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-12 18:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:23:11] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:23:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:23:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:23:22] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:23:22] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:25:14] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:25:14] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:25:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:25:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:25:19] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:25:19] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:27:59] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:35:27] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:35:27] [[31merror[39m]: [31minvalid input syntax for type timestamp: "" error: invalid input syntax for type timestamp: ""[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.createReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:4:22)[39m
+[31m    at async exports.createReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:11:26)[39m
+[2025-04-12 18:35:27] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:37:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:38:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:39:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:40:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:40:58] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:41:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:42:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:42:49] [[31merror[39m]: [31minvalid input syntax for type timestamp: "" error: invalid input syntax for type timestamp: ""[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.createReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:4:22)[39m
+[31m    at async exports.createReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:11:26)[39m
+[2025-04-12 18:42:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:42:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:43:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:44:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:45:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:46:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:46:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:46:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:50:24] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-12 18:50:24] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-12 18:50:43] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:51:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:51:02] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:51:02] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:52:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:52:27] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 18:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 18:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:06:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:13:05] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:13:23] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:13:40] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:13:40] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 19:14:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 5)[39m
+[2025-04-12 19:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:18:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:18:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:22:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:22:17] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 19:23:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 6)[39m
+[2025-04-12 19:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:27:16] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:27:39] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:28:02] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:28:02] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 19:29:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 7)[39m
+[2025-04-12 19:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:34:41] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:35:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:35:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 19:36:00] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 8)[39m
+[2025-04-12 19:37:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:38:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:39:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:39:50] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:40:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:41:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:42:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:43:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:44:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:45:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:46:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:46:31] [[31merror[39m]: [31mNo authorization token was found UnauthorizedError: No authorization token was found[39m
+[31m    at new UnauthorizedError (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express-jwt\dist\errors\UnauthorizedError.js:22:28)[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express-jwt\dist\index.js:115:39[39m
+[31m    at step (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express-jwt\dist\index.js:33:23)[39m
+[31m    at Object.next (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express-jwt\dist\index.js:14:53)[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express-jwt\dist\index.js:8:71[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at __awaiter (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express-jwt\dist\index.js:4:12)[39m
+[31m    at middleware (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express-jwt\dist\index.js:67:16)[39m
+[31m    at Layer.handle [as handle_request] (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[2025-04-12 19:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:51:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:52:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:57:50] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:58:06] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:58:06] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:59:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 19:59:38] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 19:59:55] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:00:09] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:00:09] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 20:02:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 10)[39m
+[2025-04-12 20:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:03:13] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:03:24] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:03:37] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:03:37] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 20:04:00] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 11)[39m
+[2025-04-12 20:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:05:02] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:05:25] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:05:25] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:07:01] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:07:20] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:07:20] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:08:56] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-12 20:08:57] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-12 20:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:10:31] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-12 20:10:31] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-12 20:10:48] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:11:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:11:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:12:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:12:51] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:12:51] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 20:13:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 15)[39m
+[2025-04-12 20:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:14:35] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:14:50] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:14:50] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-12 20:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-12 20:15:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 16)[39m
+[2025-04-12 20:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-12 20:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:45:44] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 12:45:44] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 12:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:46:16] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:51:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:52:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:52:45] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:56:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:56:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:56:05] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:56:05] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:56:28] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:56:28] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-15 12:57:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 17)[39m
+[2025-04-15 12:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 12:58:08] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 37)[39m
+[2025-04-15 12:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:02:38] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:02:38] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:02:39] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:02:41] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:02:45] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:04:55] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:04:56] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:04:59] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:05:03] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:07:16] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:07:17] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:07:19] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:07:23] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:09:41] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:09:42] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:10:25] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:10:50] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:10:51] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:10:53] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:10:55] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:10:56] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:10:58] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:11:02] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:11:31] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:11:33] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:12:45] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:12:46] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:12:48] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:12:49] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:12:50] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:12:52] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:12:56] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:14:49] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:14:50] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:14:52] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:14:54] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:14:55] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:14:57] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:15:01] [[35mauth[39m]: [35mProfile not found for user: google-oauth2|108698898873086385989[39m
+[2025-04-15 13:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:17:28] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:17:31] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:25:18] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 13:25:18] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 13:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:37:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:38:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:39:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:40:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:41:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:41:12] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:42:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:42:11] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:42:11] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:43:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-15 13:43:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 18)[39m
+[2025-04-15 13:44:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:45:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:51:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:52:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:53:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:53:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:53:34] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:53:35] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:53:35] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 13:54:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:55:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:56:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:57:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:58:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 13:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:00:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:13:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:16:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:16:54] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 14:16:54] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 14:17:00] [[31merror[39m]: [31mbind message supplies 1 parameters, but prepared statement "" requires 0 error: bind message supplies 1 parameters, but prepared statement "" requires 0[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.getRemindersByUserId (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:14:22)[39m
+[31m    at async exports.getReminders (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:30:27)[39m
+[2025-04-15 14:17:00] [[31merror[39m]: [31mbind message supplies 1 parameters, but prepared statement "" requires 0 error: bind message supplies 1 parameters, but prepared statement "" requires 0[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.getRemindersByUserId (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:14:22)[39m
+[31m    at async exports.getReminders (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:30:27)[39m
+[2025-04-15 14:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:17:01] [[31merror[39m]: [31mbind message supplies 1 parameters, but prepared statement "" requires 0 error: bind message supplies 1 parameters, but prepared statement "" requires 0[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.getRemindersByUserId (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:14:22)[39m
+[31m    at async exports.getReminders (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:30:27)[39m
+[2025-04-15 14:17:03] [[31merror[39m]: [31mbind message supplies 1 parameters, but prepared statement "" requires 0 error: bind message supplies 1 parameters, but prepared statement "" requires 0[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.getRemindersByUserId (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:14:22)[39m
+[31m    at async exports.getReminders (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:30:27)[39m
+[2025-04-15 14:17:07] [[31merror[39m]: [31mbind message supplies 1 parameters, but prepared statement "" requires 0 error: bind message supplies 1 parameters, but prepared statement "" requires 0[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.getRemindersByUserId (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:14:22)[39m
+[31m    at async exports.getReminders (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:30:27)[39m
+[2025-04-15 14:17:18] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 14:17:18] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 14:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:24:42] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 14:24:42] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 14:24:45] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 14:24:45] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 14:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 14:59:50] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 14:59:51] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:00:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:00:54] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:00:54] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:01:34] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:01:34] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:01:35] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:01:36] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:01:45] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:01:46] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:01:51] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:01:51] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:01:52] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:01:52] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:02:00] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:02:00] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:02:36] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:02:36] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:02:37] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:02:37] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:02:41] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:02:41] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:03:00] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:03:49] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:04:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:04:03] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:04:04] [[31merror[39m]: [31mcolumn "notification_offset" of relation "reminders" does not exist error: column "notification_offset" of relation "reminders" does not exist[39m
+[31m    at D:\Web-development-projects\React\job tracker dashboard\backend\node_modules\pg-pool\index.js:45:11[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async Object.createReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\models\Reminder.js:4:22)[39m
+[31m    at async exports.createReminder (D:\Web-development-projects\React\job tracker dashboard\backend\src\controllers\reminderController.js:21:24)[39m
+[2025-04-15 15:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:07:37] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:07:58] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:07:58] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-15 15:08:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 19)[39m
+[2025-04-15 15:09:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:09:58] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:10:13] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:10:13] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:11:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-15 15:11:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 20)[39m
+[2025-04-15 15:12:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:13:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:14:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:15:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:15:10] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:15:25] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:15:25] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-15 15:16:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 21)[39m
+[2025-04-15 15:17:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:19:10] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:19:11] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:19:11] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:19:12] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:19:17] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:19:18] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:19:39] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:19:51] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:19:51] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-15 15:20:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 22)[39m
+[2025-04-15 15:20:11] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:20:11] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:20:14] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:20:15] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:20:16] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:20:16] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:20:21] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-15 15:20:21] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-15 15:20:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:21:23] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:21:23] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:22:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:24:12] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:24:22] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:24:22] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:28:06] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:28:18] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:28:29] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:28:29] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:31:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:32:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:32:10] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:32:10] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:37:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-15 15:37:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 26)[39m
+[2025-04-15 15:38:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:39:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:40:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:41:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:42:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:43:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:44:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:45:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:45:40] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:46:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:47:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:47:55] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:47:55] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:48:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:49:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-15 15:49:52] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-15 15:50:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 15:58:07] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 15:58:07] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 15:58:38] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-16 15:59:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 15:59:15] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 15:59:15] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 15:59:23] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 15:59:23] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 15:59:27] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 15:59:27] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:00:13] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:00:13] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:00:34] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:00:34] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:00:42] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:00:42] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:00:50] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:00:50] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:00:56] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:00:57] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:01:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 16:01:02] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:01:02] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:01:22] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-16 16:01:22] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-16 16:02:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 16:03:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-16 16:03:00] [[33mcron[39m]: [33m[CRON] Hiba történt az emlékeztetők küldése közben: userEmail is not defined[39m
+[2025-04-16 16:03:23] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:03:23] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:03:27] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:03:28] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:04:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 16:05:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-16 16:05:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 28)[39m
+[2025-04-16 16:06:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 16:07:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 16:07:19] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-16 16:07:19] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-16 16:08:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 16:08:08] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:08:08] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:08:10] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:08:11] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:09:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 1[39m
+[2025-04-16 16:09:01] [[33mcron[39m]: [33mReminder sent to killerszamoca@gmail.com (id: 29)[39m
+[2025-04-16 16:09:24] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:09:24] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:09:26] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:09:26] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-16 16:10:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-16 16:10:08] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-16 16:10:09] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-17 13:15:30] [[33mcron[39m]: [33m🟢 reminderJob.js betöltődött és fut.[39m
+[2025-04-17 13:15:30] [[33mcron[39m]: [33m✅ SMTP kapcsolat sikeres (Gmail)[39m
+[2025-04-17 13:15:56] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-17 13:16:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:17:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:18:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:19:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:19:04] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-17 13:19:04] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-17 13:19:07] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-17 13:19:07] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-17 13:20:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:21:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:22:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:23:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:24:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:25:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:26:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:27:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:28:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:29:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:30:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:30:07] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-17 13:30:21] [[35mauth[39m]: [35mProfile loaded for user: Bandi (ID: 46)[39m
+[2025-04-17 13:31:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:32:01] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:33:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:34:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:35:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
+[2025-04-17 13:36:00] [[33mcron[39m]: [33m🔍 Emlékeztetők száma a lekérdezésben: 0[39m
