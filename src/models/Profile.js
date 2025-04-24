@@ -22,4 +22,14 @@ const getProfileByAuth0Id = async (auth0_id) => {
     return rows[0];
 };
 
-module.exports = { createProfile, getProfileByAuth0Id };
+const updateProfile = async ({ auth0_id, name, email, picture }) => {
+    const { rows } = await db.query(
+        `UPDATE profiles SET name = $1, email = $2, picture = $3 
+         WHERE auth0_id = $4 
+         RETURNING *`,
+        [name, email, picture, auth0_id]
+    );
+    return rows[0];
+};
+
+module.exports = { createProfile, getProfileByAuth0Id, updateProfile };
