@@ -20,7 +20,23 @@ const Analytics = {
           WHERE profile_id = $1;`, 
           [profileId]);
         return result.rows[0].success_rate || 0;
-      }
+      },
+    
+    async getAverageTimePerStatus (profileId) {
+      const query = `
+        SELECT 
+        status,
+        ROUND(AVG(EXTRACT(EPOCH FROM (updated_at - created_at)) / 86400), 2) AS average_days
+        FROM applications
+        WHERE profile_id = $1
+        GROUP BY status
+        ORDER BY average_days ASC;
+      `;
+      const values = [profileId];
+    
+      const { rows } = await db.query(query, values);
+      return rows;
+    },
 };
 
 module.exports = Analytics;
