@@ -11,6 +11,16 @@ const Analytics = {
             [profileId]);
         return result.rows;
     },
+
+    async getSuccessRate (profileId) {
+        const result = await db.query(`
+          SELECT 
+          SUM(CASE WHEN status = 'offer' THEN 1 ELSE 0 END)::float / COUNT(*) * 100 AS success_rate
+          FROM applications
+          WHERE profile_id = $1;`, 
+          [profileId]);
+        return result.rows[0].success_rate || 0;
+      }
 };
 
 module.exports = Analytics;
