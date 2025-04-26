@@ -1,8 +1,8 @@
 const analyticsService = require('../services/analyticsService');
 
-exports.getAllAnalytics = async (req, res, next) => {
+exports.fetchAnalyticsData  = async (req, res, next) => {
     try {
-        const analytics = await analyticsService.getAll(req.profile.id);
+        const analytics = await analyticsService.fetchAnalyticsData(req.profile.id);
         res.json(analytics);
     } catch (err) {
         next(err);

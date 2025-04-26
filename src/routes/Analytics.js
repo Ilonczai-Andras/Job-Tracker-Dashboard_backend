@@ -9,6 +9,6 @@ router.use(checkJwt);
 router.use(profileLoader);
 
 // Routes
-router.get('/', analyticsController.getAllAnalytics);
+router.get('/', analyticsController.fetchAnalyticsData);
 
 module.exports = router;

@@ -25,6 +25,7 @@ app.get('/health', (req, res) => {
 app.use('/api/applications', require('./src/routes/Application'));
 app.use('/api/profiles', require('./src/routes/Profile'));
 app.use('/api/reminders', require('./src/routes/Reminder'));
+app.use('/api/analytics', require('./src/routes/Analytics'));
 
 // Logging
 logger.info('API starting...');

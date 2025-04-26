@@ -1,3 +1,3 @@
 const Analytics = require('../models/Analytics');
 
-exports.getAll = (profile_id) => Analytics.getAnalytics(profile_id);
+exports.fetchAnalyticsData  = (profile_id) => Analytics.getApplicationsPerStatus(profile_id);

@@ -1,7 +1,7 @@
 const db = require('../config/db');
 
 const Analytics = {
-    async getApplications(profileId) {
+    async getApplicationsPerStatus (profileId) {
         const result = await db.query(`
             SELECT status, COUNT(*) AS count 
             FROM applications 
